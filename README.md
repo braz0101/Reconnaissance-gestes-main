@@ -34,7 +34,7 @@ L'interface vidéo affiche un texte lisible, même sur des arrière-plans comple
 
 ## 🔍 Explication du Code
 
-### 🔢 1. Calcul des angles (détection des postures)
+### 📐 1. Calcul des angles (détection des postures)
 
 ```python
 def calculate_angle(a, b, c):
@@ -72,7 +72,7 @@ Le flux vidéo est capturé via **OpenCV**, traité image par image avec **Media
 
 ---
 
-## ▶️ Exécution
+## ⚡ Exécution
 
 1. Clonez le dépôt :
 ```bash
