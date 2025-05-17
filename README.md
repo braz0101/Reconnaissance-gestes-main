@@ -8,9 +8,9 @@ L'interface vidéo affiche un texte lisible, même sur des arrière-plans comple
 
 ## 📷 Démo
 
-![poing fermé](https://github.com/user-attachments/assets/41e28134-fd78-4761-95a4-a6ee8cb508e9)
-
 ![deux doigts levés](https://github.com/user-attachments/assets/29c9bf7a-2230-403a-8c29-23695b77dd37)
+
+![poing fermé](https://github.com/user-attachments/assets/41e28134-fd78-4761-95a4-a6ee8cb508e9)
 
 ---
 
