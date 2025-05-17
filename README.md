@@ -136,18 +136,14 @@ Lors de l’exécution avec une webcam, vous verrez une vidéo enrichie d’un e
 
 ```
 Geste : Pouce levé
-
+```
 ![pouce levé](https://github.com/user-attachments/assets/fde029e6-c16c-4129-94dc-fd8eb6df4de5)
 
-```
 ou
 ```
 Geste : Paume ouverte
-
-![paume ouverte](https://github.com/user-attachments/assets/5e599413-37c1-4fcf-a32f-8b271b4a959d)
-
 ```
-
+![paume ouverte](https://github.com/user-attachments/assets/5e599413-37c1-4fcf-a32f-8b271b4a959d)
 ---
 
 ## 📜 Licence
