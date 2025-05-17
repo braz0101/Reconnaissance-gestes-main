@@ -1,5 +1,5 @@
 
-# 🤖 Reconnaissance de Gestes de la Main avec MediaPipe
+# ✋ Reconnaissance de Gestes de la Main avec MediaPipe
 
 Ce projet utilise **MediaPipe**, **OpenCV** et **Pillow** pour détecter et reconnaître en temps réel des **gestes de la main** via la webcam.  
 L'interface vidéo affiche un texte lisible, même sur des arrière-plans complexes, grâce à un effet de contour.
