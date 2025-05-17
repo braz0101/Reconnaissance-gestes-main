@@ -8,9 +8,9 @@ L'interface vidéo affiche un texte lisible, même sur des arrière-plans comple
 
 ## 📷 Démo
 
-2 doigts
+![poing fermé](https://github.com/user-attachments/assets/41e28134-fd78-4761-95a4-a6ee8cb508e9)
 
-poing fermé
+![deux doigts levés](https://github.com/user-attachments/assets/29c9bf7a-2230-403a-8c29-23695b77dd37)
 
 ---
 
@@ -73,7 +73,8 @@ Utilise Pillow pour afficher du texte avec contour/ombre, pour une meilleure lis
 Le flux vidéo est capturé via **OpenCV**, traité image par image avec **MediaPipe** pour détecter les mains, puis les gestes sont identifiés.
 
 
-video ici
+https://github.com/user-attachments/assets/32e87459-0b99-492e-884d-6dd4595462f0
+
 
 ---
 
@@ -136,14 +137,14 @@ Lors de l’exécution avec une webcam, vous verrez une vidéo enrichie d’un e
 ```
 Geste : Pouce levé
 
-
+![pouce levé](https://github.com/user-attachments/assets/fde029e6-c16c-4129-94dc-fd8eb6df4de5)
 
 ```
 ou
 ```
 Geste : Paume ouverte
 
-
+![paume ouverte](https://github.com/user-attachments/assets/5e599413-37c1-4fcf-a32f-8b271b4a959d)
 
 ```
 
