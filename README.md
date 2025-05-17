@@ -154,3 +154,4 @@ Ce projet est open-source sous licence **MIT**.
 📸 Les captures d’écran et vidéos présentes dans ce dépôt sont uniquement fournies à des fins de démonstration.
 ❌ Leur réutilisation ou diffusion sans mon accord explicite est interdite.
 Ces médias peuvent contenir des éléments personnels soumis au droit à l’image.
+
