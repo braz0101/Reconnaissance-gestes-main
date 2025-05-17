@@ -151,6 +151,6 @@ Geste : Paume ouverte
 Ce projet est open-source sous licence **MIT**.
 
 ⚠️ Droit à l’image
-📸 Les captures d’écran et GIFs présents dans ce dépôt sont uniquement fournis à des fins de démonstration.
+📸 Les captures d’écran et vidéos présentes dans ce dépôt sont uniquement fournies à des fins de démonstration.
 ❌ Leur réutilisation, reproduction ou diffusion sans mon accord explicite est interdite.
-Ces médias peuvent contenir des éléments personnels (ex. : ma main) soumis au droit à l’image.
+Ces médias peuvent contenir des éléments personnels soumis au droit à l’image.
