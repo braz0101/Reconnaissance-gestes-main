@@ -8,7 +8,9 @@ L'interface vidéo affiche un texte lisible, même sur des arrière-plans comple
 
 ## 📷 Démo
 
-> *(Ajoutez ici une capture d’écran ou un GIF animé illustrant la détection des gestes)*
+2 doigts
+
+poing fermé
 
 ---
 
@@ -70,14 +72,17 @@ Utilise Pillow pour afficher du texte avec contour/ombre, pour une meilleure lis
 
 Le flux vidéo est capturé via **OpenCV**, traité image par image avec **MediaPipe** pour détecter les mains, puis les gestes sont identifiés.
 
+
+video ici
+
 ---
 
 ## ⚡ Exécution
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/ton-utilisateur/hand-gesture-recognition.git
-cd hand-gesture-recognition
+git clone https://github.com/braz0101/Reconnaissance-gestes-main.git
+cd Reconnaissance-gestes-main
 ```
 
 2. Installez les dépendances :
@@ -101,8 +106,8 @@ hand-gesture-recognition/
 ├── main.py               # Script principal
 ├── requirements.txt      # Dépendances Python
 ├── fonts/
-│   └── arial.ttf         # Police TrueType utilisée pour le texte
-└── README.md             # Ce fichier
+│   └── arial.ttf         # Police TrueType utilisée pour le texte (Personnalisable)
+└── README.md             
 ```
 
 ---
@@ -130,10 +135,16 @@ Lors de l’exécution avec une webcam, vous verrez une vidéo enrichie d’un e
 
 ```
 Geste : Pouce levé
+
+
+
 ```
 ou
 ```
 Geste : Paume ouverte
+
+
+
 ```
 
 ---
